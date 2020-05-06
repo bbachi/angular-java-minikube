@@ -1,2 +1,2 @@
-# angular-java-minikube
-Example project for running on Angular with Java backend on Minikube
+# angular-java-example
+This is an example project of angular with java
